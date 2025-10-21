@@ -1,0 +1,84 @@
+0.719 | if you've been a Linux user for some | 4.021
+2.76 | time you're probably aware how much | 3.96
+4.74 | thinkpads are endorsed by other Linux | 4.56
+6.72 | users in fact this is the third ThinkPad | 4.799
+9.3 | I've bought and I'm not too sure how I | 3.719
+11.519 | feel about that | 3.24
+13.019 | for the record this is my personal | 6.001
+14.759 | laptop the Lenovo ThinkPad yoga 370. so | 6.78
+19.02 | what makes ThinkPad so good | 5.46
+21.539 | build quality thinkpads have outstanding | 5.4
+24.48 | build quality and part of the reason is | 4.02
+26.939 | because they're primarily designed as | 4.441
+28.5 | business laptops so the ThinkPad build | 4.559
+31.38 | quality can also be felt in other | 3.839
+33.059 | business laptops like dull attitudes and | 4.02
+35.219 | HP elitebooks | 4.321
+37.079 | thinkpads are not too big and not too | 4.861
+39.54 | small they're not too heavy and not too | 4.38
+41.94 | Hollow and while they are made of | 4.08
+43.92 | plastic they're made of a high quality | 4.68
+46.02 | plastic not the same cheap plastic you | 4.859
+48.6 | might find on a Chromebook | 5.459
+50.879 | four months value ratio thinkpads are | 7.02
+54.059 | very cheap this yoga 370 was 130 pounds | 7.561
+57.899 | the x240 I bought was 79 pounds and the | 6.361
+61.62 | s220 I bought was 50 pounds | 4.2
+64.26 | and if you're looking to buy a really | 3.78
+65.82 | old ThinkPad or if you want to take a | 4.08
+68.04 | gamble with an untested or faulty | 4.2
+69.9 | machine you can get them for basically | 3.66
+72.24 | nothing | 3.48
+73.56 | but these laptops are old of course | 4.08
+75.72 | they're cheap but old doesn't | 3.54
+77.64 | necessarily mean bad | 3.42
+79.26 | of course they work well for things like | 3.84
+81.06 | web browsing and office work | 4.02
+83.1 | but I also made a video about gaming on | 4.379
+85.08 | the x240 and I even edited one of my | 5.46
+87.479 | normal videos entirely on the x220 these | 4.561
+90.54 | laptops aren't going to replace your | 4.14
+92.04 | gaming PC but they absolutely destroy | 4.86
+94.68 | any laptop you can buy brand new for the | 4.32
+96.9 | same price in every performance metric | 3.66
+99.0 | besides battery life | 3.72
+100.56 | expansions and upgrades | 4.019
+102.72 | thinkpads come with a decent amount with | 3.719
+104.579 | IO and many of them have fingerprint | 4.08
+106.439 | readers and SIM card slots which you | 4.32
+108.659 | just won't find on consumer Hardware at | 3.661
+110.759 | least not at this price | 4.32
+112.32 | this yoga 370 also features a 360 degree | 6.979
+115.079 | hinge and a 1080p IPS display | 4.22
+119.46 | thinkpads are also highly upgradable | 4.439
+121.46 | allowing user to upgrade the memory and | 4.06
+123.899 | the storage with some of the older | 3.121
+125.52 | thinkpads even allowing you to replace | 4.019
+127.02 | the CPU which is basically unheard of on | 4.62
+129.539 | laptops this is in short contrast to | 3.481
+131.64 | Modern machines where everything is | 3.78
+133.02 | permanently soldered to one PCB this | 3.84
+135.42 | also means thinkpads are great for | 3.06
+136.86 | combating electronic waste because | 4.2
+138.48 | anybody with a screwdriver and basic | 3.899
+141.06 | computer knowledge can save their | 3.36
+142.379 | machine from going to landfill | 4.381
+144.42 | Colbert and Libra boots not all | 4.2
+146.76 | thinkpads support this but some of the | 3.6
+148.62 | older ones allow you to install core | 3.78
+150.36 | boots or leaper boots which are | 3.66
+152.4 | basically free software replacements for | 2.76
+154.02 | your bios | 3.0
+155.16 | on top of being better for your freedom | 3.6
+157.02 | and allowing you to have a computer that | 3.96
+158.76 | is 100 free software even at the | 4.619
+160.98 | firmware level core Boot and labor boot | 4.14
+163.379 | are also a lot faster than traditional | 3.541
+165.12 | players and they also combat the | 3.3
+166.92 | security concerns with Intel's | 3.179
+168.42 | management engine | 3.48
+170.099 | and that is my video on what makes | 3.961
+171.9 | thinkpads great and why Linux users in | 4.199
+174.06 | particular like them I hope you guys | 3.84
+176.099 | like the video and I'll see you in the | 4.161
+177.9 | next one | 2.36
