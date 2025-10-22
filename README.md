@@ -1,6 +1,12 @@
-# Youtube transcript script
+<p align="center">
+    <b> Youtube transcript script</b>
+</p>
 
-### notes:
+> [SCRIPT]
+> a python script for saving YouTube video transcripts 
+> and metadata without using the user API.
+
+### features:
 
 - without API
 - need only video link
