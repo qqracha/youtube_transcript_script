@@ -1,7 +1,7 @@
 from youtube_transcript_api import YouTubeTranscriptApi
 import yt_dlp
 
-video_id = "WVnFBDoVKmM" # use your video id from url
+video_id = "rc46ADSdv-k" # use your video id from url
 video_url = f"https://www.youtube.com/watch?v={video_id}"
 ytt_api = YouTubeTranscriptApi()
 ydl_opts = {}
